@@ -1,5 +1,6 @@
-# CALCULATOR<br>MADE WITH -
+# CALCULATOR
+## MADE WITH
 * JavaScript 
 * CSS 
 * HTML
-## 100% Responsive (* _ *)
+* 100% Responsive
